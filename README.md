@@ -1,16 +1,21 @@
-## Hi there 👋
+# Adcool India Pvt. Ltd.
 
-<!--
-**adcoolindiapvtltd/adcoolindiapvtltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the GitHub profile of **Adcool India Pvt. Ltd.**
 
-Here are some ideas to get you started:
+This repository has a special role: its name matches the GitHub username
+(`adcoolindiapvtltd`), so GitHub displays this README on the company’s profile.
+It is also the repository for the company website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About this repository
+
+- **Company:** Adcool India Pvt. Ltd.
+- **GitHub profile:** [github.com/adcoolindiapvtltd](https://github.com/adcoolindiapvtltd)
+- **Purpose:** Company profile README and company website
+
+The README introduces the company on GitHub, while the website project belongs
+to this same repository.
+
+## Explore
+
+Visit the [Adcool India Pvt. Ltd. GitHub profile](https://github.com/adcoolindiapvtltd)
+to see the company’s repositories and work.
